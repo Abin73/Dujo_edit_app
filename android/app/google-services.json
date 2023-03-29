@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "983512130711",
+    "project_id": "lepton-dujo-official",
+    "storage_bucket": "lepton-dujo-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983512130711:android:e680d4cf1fbd15ec55b5d2",
+        "android_client_info": {
+          "package_name": "com.LeptonDujo_Application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983512130711-ceinq4i7tgtotvj73s1cp66erm8k5og2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_fvcL7z_xX6stXlsH4efBWRK7oF5z0fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983512130711-ceinq4i7tgtotvj73s1cp66erm8k5og2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983512130711-a86gtk5a54scld4jh2hg3uuvl43goth0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dujoOfficalApk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
